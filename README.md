@@ -1,5 +1,5 @@
 <h2> I'm Syn!</h2>
-<p><em>Full Stack Senior Developer
+<p><em>Full Stack Senior Developer / DevOps engineers
 </em></p>
 
 [![Twitter: syntaxStress](https://img.shields.io/twitter/follow/syntaxStress?style=social)](https://twitter.com/syntaxStress)
