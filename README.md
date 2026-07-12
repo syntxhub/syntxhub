@@ -1,4 +1,4 @@
-<h2> I'm Syn!</h2>
+<h2> I'm Syn! Welcome to my Unprofessional Github, this is my personal and private hub.</h2>
 <p><em>Full Stack Senior Developer / DevOps engineer / NCSC Assured Cyber Advisor
 </em></p>
 
