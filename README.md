@@ -2,10 +2,9 @@
 <p><em>Full Stack Senior Developer / DevOps engineer / NCSC Assured Cyber Advisor
 </em></p>
 
-[![Twitter: syntaxStress](https://img.shields.io/twitter/follow/syntaxStress?style=social)](https://twitter.com/syntaxStress)
-[![Linkedin: syntaxStress](https://img.shields.io/badge/-syntaxStress-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syntaxStress/)](https://www.linkedin.com/in/syntaxStress/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/syntaxStress?label=follow&style=social)](https://github.com/syntaxStress)
-![Snake Animation](https://githubusercontent.com)
+[![Twitter: syntaxStress](https://img.shields.io/twitter/follow/syntaxStress?style=social)](https://twitter.com/syntxhub)
+[![Linkedin: syntaxStress](https://img.shields.io/badge/-syntaxStress-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syntaxStress/)](https://www.linkedin.com/in/syntxhub/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/syntaxStress?label=follow&style=social)](https://github.com/syntxhub)
 
 ---
 
